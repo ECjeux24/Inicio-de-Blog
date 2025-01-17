@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Rocker&display=swap');
+
+*{ 
+    background-color: #a893b6;
+}
+
+h1 {
+    font-family: "New Rocker", serif;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+}
+
+h2 {
+    font-family: "New Rocker", serif;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+}
+
+h3 {
+    font-family: "New Rocker", serif;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
